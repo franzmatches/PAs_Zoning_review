@@ -5,7 +5,7 @@ Data, code and Supplementary Material for the "Are we zoning out? Biases in the 
 ## File Supplementary Table: this is a 3 sheets excel file
 
 Sheet 1: Table S1 (raw list). This is the list of all articles we assembled an initial pool of 3783 papers from the literature research.
-Please, note that the code "Literature research lists.R" creates a table with the same data.
+Please, note that the code "Literature research lists.R" creates a table with the same data in the "Results" folder.
 
 Sheet 2: Table S2 (first selection). This is the first selection of the papers following our screening selection methods.
 
